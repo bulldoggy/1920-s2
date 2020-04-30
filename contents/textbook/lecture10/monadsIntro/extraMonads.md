@@ -16,7 +16,7 @@
 
 This post was adapted from [Prof Ooi's CS2030 Website](https://nus-cs2030.github.io/1718-s2/monad/index.html) 
 
-This post was inspired by [The Best Introduction to Monad](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/), but is adapted to the Object-Oritented way of programming with Java.
+This post was inspired by [The Best Introduction to Monad](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/), but is adapted to the Object-Oriented way of programming with Java.
 
 Let's say we have:
 
